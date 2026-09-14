@@ -1,5 +1,6 @@
 public class date {
 public static void main (String[] args){
+	//example 2.2
 	String day = "Monday";
 	int date = 14;
 	String month = "September";
